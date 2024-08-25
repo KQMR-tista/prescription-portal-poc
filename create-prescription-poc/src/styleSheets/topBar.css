@@ -1,0 +1,59 @@
+.topBar {
+}
+
+.title {
+    font-Family: 'ui-rounded';
+    font-Weight: 1000;
+    letter-Spacing: .3rem;
+    color: inherit;
+    text-Decoration: none;
+}
+
+.icon {
+    padding-right: 10px;
+}
+
+.modal-Header {
+    text-align: center;
+    font-family: "Roboto", sans-serif;
+    font-weight: bold;
+    font-size: 2em;
+    padding-bottom: 15px;
+}
+
+#container {
+    justify-content: space-between;
+}
+
+.cellContainer {
+    width: 50%;
+    float: left;
+}
+
+.inputFields {
+    background-color: lightgray;
+
+}
+
+#prescriberState {
+    width: 150px;
+    float: left;
+
+}
+
+#prescriberZip {
+    width: 150px;
+    float: left;
+}
+
+.add-provider-modal-submit {
+    position: relative;
+    padding-top: 20px;
+    padding-right: 10px;
+    display: flex;
+    justify-content: end;
+}
+
+.pl {
+    padding-left: 10px;
+}
